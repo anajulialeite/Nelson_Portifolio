@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    background-color: #D5ECF5;
+    background-attachment: fixed;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 46, 38, 0.253);
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+}
+    
+.centro {
+    text-align: center;
+}
+
+h1 {
+    color: #00284F;
+    text-align: center;
+}
+
+a {
+    color: #00284F;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0080FF;
+}
+
+.center p {
+    text-align: center;
+}
